@@ -1,0 +1,7 @@
+node_modules
+bin
+.task
+dist
+localData
+frontend/dist
+.DS_Store
